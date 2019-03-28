@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Edittext</string>
+    <string name="name" />
+    <string name="name1">Name</string>
+    <string name="tall">tall</string>
+    <string name="kg">kg</string>
+    <string name="kg1">weight(kg)</string>
+</resources>
